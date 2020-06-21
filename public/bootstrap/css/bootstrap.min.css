@@ -10796,7 +10796,6 @@ footer .copyright {
   @media screen and (max-width: 576px) {
     #mainNav .fitemu {
       align-items: center;
-      padding-left: 0;
       align-self: center;
       align-content: center;
       width: auto;
